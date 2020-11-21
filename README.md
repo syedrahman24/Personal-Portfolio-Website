@@ -27,3 +27,12 @@
 
 # Personal-Portfolio-Website
 It is a Personal Portfolio Website developed in HTML5, CSS3 and Javascript.
+
+# Snapshots
+![210](https://user-images.githubusercontent.com/57063763/99877774-7a780f00-2c26-11eb-9ec7-a1de7adb6c06.png)
+![202](https://user-images.githubusercontent.com/57063763/99877751-59172300-2c26-11eb-9147-00e4fb39cedc.png)
+![203](https://user-images.githubusercontent.com/57063763/99877752-5a485000-2c26-11eb-827e-672ff55806f7.png)
+![204](https://user-images.githubusercontent.com/57063763/99877753-5ae0e680-2c26-11eb-8786-b577892f4077.png)
+![205](https://user-images.githubusercontent.com/57063763/99877754-5ae0e680-2c26-11eb-811a-0ab8ce180fde.png)
+![206](https://user-images.githubusercontent.com/57063763/99877755-5b797d00-2c26-11eb-9258-b03eb3000efd.png)
+
